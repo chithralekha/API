@@ -1,0 +1,9 @@
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Mapping\bin\Debug\Magpie.Mapping.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Mapping\bin\Debug\Magpie.Mapping.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Mapping\bin\Debug\Magpie.DTO.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Mapping\bin\Debug\Magpie.Model.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Mapping\bin\Debug\Magpie.DTO.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Mapping\bin\Debug\Magpie.Model.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Mapping\obj\Debug\Magpie.Mapping.csprojResolveAssemblyReference.cache
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Mapping\obj\Debug\Magpie.Mapping.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Mapping\obj\Debug\Magpie.Mapping.pdb

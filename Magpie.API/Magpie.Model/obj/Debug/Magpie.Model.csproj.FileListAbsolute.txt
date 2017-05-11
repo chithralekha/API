@@ -1,0 +1,5 @@
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Model\bin\Debug\Magpie.Model.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Model\bin\Debug\Magpie.Model.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Model\obj\Debug\Magpie.Model.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Model\obj\Debug\Magpie.Model.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Model\obj\Debug\Magpie.Model.csprojResolveAssemblyReference.cache

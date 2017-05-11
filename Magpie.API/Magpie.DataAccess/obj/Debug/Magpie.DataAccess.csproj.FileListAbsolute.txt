@@ -1,0 +1,7 @@
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DataAccess\bin\Debug\Magpie.DataAccess.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DataAccess\bin\Debug\Magpie.DataAccess.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DataAccess\bin\Debug\Magpie.Model.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DataAccess\bin\Debug\Magpie.Model.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DataAccess\obj\Debug\Magpie.DataAccess.csprojResolveAssemblyReference.cache
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DataAccess\obj\Debug\Magpie.DataAccess.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DataAccess\obj\Debug\Magpie.DataAccess.pdb

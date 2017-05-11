@@ -1,0 +1,7 @@
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging\Magpie.Logging\bin\Debug\Magpie.Logging.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging\Magpie.Logging\bin\Debug\Magpie.Logging.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging\Magpie.Logging\obj\Debug\Magpie.Logging.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging\Magpie.Logging\obj\Debug\Magpie.Logging.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging\Magpie.Logging\obj\Debug\Magpie.Logging.csprojResolveAssemblyReference.cache
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging\Magpie.Logging\bin\Debug\log4net.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging\Magpie.Logging\bin\Debug\log4net.xml

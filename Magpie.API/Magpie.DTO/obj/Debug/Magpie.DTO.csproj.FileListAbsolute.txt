@@ -1,0 +1,5 @@
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DTO\bin\Debug\Magpie.DTO.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DTO\bin\Debug\Magpie.DTO.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DTO\obj\Debug\Magpie.DTO.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DTO\obj\Debug\Magpie.DTO.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.DTO\obj\Debug\Magpie.DTO.csprojResolveAssemblyReference.cache

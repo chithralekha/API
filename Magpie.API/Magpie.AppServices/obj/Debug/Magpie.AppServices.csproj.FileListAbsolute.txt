@@ -1,0 +1,5 @@
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.AppServices\bin\Debug\Magpie.AppServices.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.AppServices\bin\Debug\Magpie.AppServices.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.AppServices\obj\Debug\Magpie.AppServices.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.AppServices\obj\Debug\Magpie.AppServices.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.AppServices\obj\Debug\Magpie.AppServices.csprojResolveAssemblyReference.cache

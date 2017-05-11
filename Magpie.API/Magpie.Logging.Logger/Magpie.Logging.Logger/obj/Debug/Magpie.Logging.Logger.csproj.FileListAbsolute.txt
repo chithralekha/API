@@ -1,0 +1,10 @@
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging.Logger\Magpie.Logging.Logger\obj\Debug\Magpie.Logging.Logger.csprojResolveAssemblyReference.cache
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\Magpie.Logging.Logger.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\Magpie.Logging.Logger.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\log4net.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\Magpie.Logging.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\Magpie.Logging.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\log4net.xml
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging.Logger\Magpie.Logging.Logger\obj\Debug\Magpie.Logging.Logger.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Logging.Logger\Magpie.Logging.Logger\obj\Debug\Magpie.Logging.Logger.pdb
